@@ -1,0 +1,12 @@
+id,name,price,qty,image
+1,Soap,40,3,https://m.media-amazon.com/images/I/71XGg5rLvML._AC_UY218_.jpg
+2,Washing Machine,30000,2,https://m.media-amazon.com/images/I/81F5tdwBfhL._AC_UY218_.jpg
+3,Laptop,65000,5,https://m.media-amazon.com/images/I/71IOyJvlcPL._AC_UY218_.jpg
+4,Smartphone,25000,7,https://m.media-amazon.com/images/I/71geVdy6-OS._AC_UY218_.jpg
+5,Headphones,3000,10,https://m.media-amazon.com/images/I/61O2XxZdQ2L._AC_UY218_.jpg
+6,Refrigerator,50000,3,https://m.media-amazon.com/images/I/81rhL9UtWbL._AC_UY218_.jpg
+7,Smart TV,45000,4,https://m.media-amazon.com/images/I/71VPe2+j1gL._AC_UY218_.jpg
+8,Microwave,10000,6,https://m.media-amazon.com/images/I/71gclm3kr3L._AC_UY218_.jpg
+9,Table Fan,1500,12,https://m.media-amazon.com/images/I/81fFcIMwcfL._AC_UY218_.jpg
+10,Electric Kettle,2500,9,https://m.media-amazon.com/images/I/61ZwxVC8y8L._AC_UY218_.jpg
+
